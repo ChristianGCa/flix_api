@@ -1,6 +1,7 @@
 # Flix API
 
 Este é um projeto desenvolvido como parte do curso Django Master da PyCodeBR. Ele consiste em uma API para gerenciar informações relacionadas a filmes, gêneros, atores e avaliações. O projeto foi construído utilizando o framework Django.
+Para ver uma aplicação desenvolvida que utiliza essa API, acesse: https://github.com/ChristianGCa/flix_app
 
 ## Funcionalidades
 
